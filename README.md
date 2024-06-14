@@ -18,8 +18,11 @@ I am looking for a dynamic team where I can make a significant contribution by a
 - Visual Studio Code (basics)
   
 **Other:**
-- 🧠  Now I'm learning Java Spring Framework, SQL
-- 📖 I graduated from the Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
-- I am passionate about fitness, studying algorithms, and solving brain teasers. I adore mountain hikes, which bring inspiration and strength. I am actively learning English and Portuguese languages. I am developing emotional intelligence and working on communication skills
-- ✉️  You can contact me at daria.polubenko@gmail.com
+- 💻 Currently learning Java Spring Framework, SQL
+- 📖 Graduated from the Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
+- 🏋️‍♀️ Passionate about fitness, studying algorithms, and solving brain teasers
+- 🌄 Love mountain hikes for inspiration and strength
+- 🌍 Actively learning English and Portuguese languages
+- 🧠 Developing emotional intelligence and communication skills
+- ✉️ You can contact me at daria.polubenko@gmail.com
 
