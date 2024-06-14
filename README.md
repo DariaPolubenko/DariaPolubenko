@@ -16,7 +16,8 @@ I am looking for a dynamic team where I can make a significant contribution by a
 - Basic algorithms and data structures
 - HTML, CSS (basics)
 - Visual Studio Code (basics)
-
+  
+**Other:**
 - 🧠  I'm learning Java, Java Spring Framework, SQL
 - 📖 I graduated from the Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
 - ✉️  You can contact me at daria.polubenko@gmail.com
