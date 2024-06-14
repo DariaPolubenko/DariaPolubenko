@@ -7,3 +7,4 @@ I am looking for a dynamic team where I can make a significant contribution by a
 
 ✉️  You can contact me at daria.polubenko@gmail.com
 🧠  I'm learning Java, Spring Boot, SGL
+📖 I graduated from the Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry.
