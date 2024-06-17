@@ -1,11 +1,12 @@
-## Hello! My name is Daria 👋
+Hi 👋 My name is Daria
+======================
 
-I'm a **Junior Java Developer** with practical experience in completing several academic projects.
+I'm a **Junior Java Developer** with practical experience in completing several academic projects. 
 I love programming and find immense satisfaction when my code works efficiently.
 
 **I am looking for a dynamic team** where I can make a significant contribution by applying my technical skills and professional abilities. I strive for continuous professional growth and development. I am ready to learn new technologies and approaches to become a valuable member of your team.
 
-**Hard skills:**
+### Skills
 - Java Core
 - Gradle, IntelliJ IDEA
 - Code quality analysis using Checkstyle
@@ -17,17 +18,22 @@ I love programming and find immense satisfaction when my code works efficiently.
 - HTML, CSS (basics)
 - Visual Studio Code (basics)
 
-**Education:**
-- Courses at 'Hexlet' Programming School, profession: Java Developer
-- Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
+[![My Skills](https://skillicons.dev/icons?i=java,gradle,idea,bash,vim,github,git,html,css&theme=light)](https://skillicons.dev)
 
-**Other:**
-- 💻 Currently learning Java Spring Framework, SQL
-- 🏋️‍♀️ Passionate about fitness, studying algorithms, and solving brain teasers
-- 🌄 Love mountain hikes for inspiration and strength
-- 🌍 Actively learning English and Portuguese languages
-- 🧠 Developing emotional intelligence and communication skills
-  
+### Education
+*   Courses at "Hexlet" Programming School, profession: Java-Developer
+*   Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
 
-### You can contact me at daria.polubenko@gmail.com
+### Other about me
+*   📍  I'm based in Porto, Portugal
+*   👩🏻‍💻  Currently I'm learning Java Spring Framework, SQL
+*   🤸🏼  Like fitness, studying algorithms, and solving brain teasers
+*   ⛰  Love mountain hikes for inspiration and strength
+*   🌍  Actively learning English and Portuguese languages
+*   🧠  Developing emotional intelligence and communication skills
 
+**You can contact** me at [daria.polubenko@gmail.com](mailto:daria.polubenko@gmail.com)
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/daria-polubenko-a77952305" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
