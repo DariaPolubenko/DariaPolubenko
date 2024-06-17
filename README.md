@@ -33,7 +33,3 @@ I love programming and find immense satisfaction when my code works efficiently.
 *   🧠  Developing emotional intelligence and communication skills
 
 **You can contact** me at [daria.polubenko@gmail.com](mailto:daria.polubenko@gmail.com)
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/daria-polubenko-a77952305" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
