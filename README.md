@@ -21,7 +21,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,idea,bash,vim,github,git,html,css&theme=light)](https://skillicons.dev)
 
 ### Education
-*   Courses at "Hexlet" Programming School, profession: Java-Developer
+*   Now, I'm learning Backend Developement with Java at [Hexlet](https://ru.hexlet.io/)
 *   Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
 
 ### Other about me
