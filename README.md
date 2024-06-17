@@ -16,13 +16,18 @@ I love programming and find immense satisfaction when my code works efficiently.
 - Basic algorithms and data structures
 - HTML, CSS (basics)
 - Visual Studio Code (basics)
-  
+
+**Education:**
+- Courses at 'Hexlet' Programming School, profession: Java Developer
+- Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
+
 **Other:**
 - 💻 Currently learning Java Spring Framework, SQL
-- 📖 Graduated from the Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
 - 🏋️‍♀️ Passionate about fitness, studying algorithms, and solving brain teasers
 - 🌄 Love mountain hikes for inspiration and strength
 - 🌍 Actively learning English and Portuguese languages
 - 🧠 Developing emotional intelligence and communication skills
-- ✉️ You can contact me at daria.polubenko@gmail.com
+  
+
+**✉️ You can contact** me at daria.polubenko@gmail.com
 
