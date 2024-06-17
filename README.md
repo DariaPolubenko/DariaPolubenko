@@ -29,5 +29,5 @@ I love programming and find immense satisfaction when my code works efficiently.
 - 🧠 Developing emotional intelligence and communication skills
   
 
-## You can contact me at daria.polubenko@gmail.com
+### You can contact me at daria.polubenko@gmail.com
 
