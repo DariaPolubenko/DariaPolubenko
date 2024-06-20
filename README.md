@@ -5,6 +5,7 @@ I'm a **Junior Java Developer** with practical experience in completing several 
 I love programming and find immense satisfaction when my code works efficiently.
 
 **I am looking for a dynamic team** where I can make a significant contribution by applying my technical skills and professional abilities. I strive for continuous professional growth and development. I am ready to learn new technologies and approaches to become a valuable member of your team.
+[There is my CV](https://cv.hexlet.io/ru/resumes/4014)
 
 ### Skills
 - Java Core
@@ -20,7 +21,6 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,idea,bash,vim,github,git,html,css&theme=light)](https://skillicons.dev)
 
-[There is my CV](https://cv.hexlet.io/ru/resumes/4014)
 
 ### Education
 *   Now, I'm learning Backend Developement with Java at [Hexlet](https://ru.hexlet.io/)
