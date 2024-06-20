@@ -32,4 +32,6 @@ I love programming and find immense satisfaction when my code works efficiently.
 *   🌍  Actively learning English and Portuguese languages
 *   🧠  Developing emotional intelligence and communication skills
 
+[There is my CV](https://cv.hexlet.io/ru/resumes/4014)
+
 **You can contact** me at [daria.polubenko@gmail.com](mailto:daria.polubenko@gmail.com)
