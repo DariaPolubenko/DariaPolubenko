@@ -6,7 +6,6 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 **I am looking for a dynamic team** where I can make a significant contribution by applying my technical skills and professional abilities. I strive for continuous professional growth and development. I am ready to learn new technologies and approaches to become a valuable member of your team.
 
-[There is my CV](https://cv.hexlet.io/ru/resumes/4014)
 
 ### Skills
 - Java Core
@@ -26,6 +25,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 ### Education
 *   Now, I'm learning Backend Developement with Java at [Hexlet](https://ru.hexlet.io/)
 *   Siberian State University of Telecommunications and Informatics with a degree in Information Technology in the Media Industry
+[There is my CV](https://cv.hexlet.io/ru/resumes/4014)
 
 ### Other about me
 *   📍  I'm based in Porto, Portugal
