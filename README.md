@@ -8,7 +8,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 
 ### Skills
-- Java Core
+- Java
 - Gradle, IntelliJ IDEA
 - Code quality analysis using Checkstyle
 - Git, GitHub, CI (GitHub Actions)
