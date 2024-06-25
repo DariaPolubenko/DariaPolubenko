@@ -31,7 +31,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 *   📍  I'm based in Porto, Portugal
 *   👩🏻‍💻  Currently I'm learning Java Spring Framework, SQL
 *   🤸🏼  Like fitness, studying algorithms, and solving brain teasers
-*   ⛰  Love mountain hikes for inspiration and strength
+*   ⛰  Love mountain hiking for inspiration and strength
 *   🌍  Actively learning English and Portuguese languages
 *   🧠  Developing emotional intelligence and communication skills
 
