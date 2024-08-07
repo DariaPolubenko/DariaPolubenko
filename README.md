@@ -16,6 +16,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 - Knowledge of OOP and SOLID principles
 - Writing clean code
 - Basic algorithms and data structures
+- SQL
 - HTML, CSS (basics)
 - Visual Studio Code (basics)
 
@@ -29,7 +30,7 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 ### Other about me
 *   📍  I'm based in Porto, Portugal
-*   👩🏻‍💻  Currently I'm learning Java Spring Framework, SQL
+*   👩🏻‍💻  Currently I'm learning Java Spring Framework
 *   🤸🏼  Like fitness, studying algorithms, and solving brain teasers
 *   ⛰  Love mountain hiking for inspiration and strength
 *   🌍  Actively learning English and Portuguese languages
