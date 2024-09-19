@@ -8,17 +8,21 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 
 ### Skills
-- Java
-- Gradle, IntelliJ IDEA
-- Code quality analysis using Checkstyle
-- Git, GitHub, CI (GitHub Actions)
-- Automated testing (JUnit5) and test coverage (Jacoco)
-- Knowledge of OOP and SOLID principles
-- Writing clean code
-- Basic algorithms and data structures
-- SQL
-- HTML, CSS (basics)
-- Visual Studio Code (basics)
+• Java
+• Gradle, IntelliJ IDEA
+• Code quality analysis and using Checkstyle
+• Git, GitHub, CI (GitHub Actions)
+• Аutomated testing (JUnit5) and test coverage (Jacoco)
+• Knowledge of OOP and SOLID principles
+• Writing clean code
+• Basic algorithms and data structures
+• SQL, PostgreSQL, H2
+• HTTP, Javalin
+• HTML, CSS и Bootstrap (basics)
+• Visual Studio Code (basics)
+• A2 - english
+• A2 - portugues
+• I'm learning Java Spring Framework
 
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,idea,bash,vim,github,git,html,css&theme=light)](https://skillicons.dev)
 
@@ -30,7 +34,6 @@ I love programming and find immense satisfaction when my code works efficiently.
 
 ### Other about me
 *   📍  I'm based in Porto, Portugal
-*   👩🏻‍💻  Currently I'm learning Java Spring Framework
 *   🤸🏼  Like fitness, studying algorithms, and solving brain teasers
 *   ⛰  Love mountain hiking for inspiration and strength
 *   🌍  Actively learning English and Portuguese languages
