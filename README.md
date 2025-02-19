@@ -16,13 +16,14 @@ I love programming and find immense satisfaction when my code works efficiently.
 - Knowledge of OOP and SOLID principles
 - Writing clean code
 - Basic algorithms and data structures
+- Spring Boot (basics)
+- Docker (basics)
 - SQL, PostgreSQL, H2
 - HTTP, Javalin
 - HTML, CSS и Bootstrap (basics)
 - Visual Studio Code (basics)
 - A2 - english
 - A2 - portugues
-- I'm learning Java Spring Framework
 
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,idea,bash,vim,github,git,html,css&theme=light)](https://skillicons.dev)
 
